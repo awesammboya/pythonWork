@@ -1,5 +1,5 @@
 #!/usr/bin/python
-num1, num2 = 0, 1
+num1, num2 = 1, 1
 try:
 	fibvalue = int(input("How many fibonacci numbers do you want: "))
 except ValueError:
